@@ -1,0 +1,11 @@
+table1 6
+table2 2
+table3 4
+table4 4
+table5 8
+table6 8
+table7 10
+table8 10
+table9 2
+table10 4
+table11 4
